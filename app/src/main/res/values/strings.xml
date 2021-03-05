@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgendaSQlite</string>
+    <string name="title_activity_direccion">Map</string>
+</resources>
